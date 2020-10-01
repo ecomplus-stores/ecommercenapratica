@@ -1,23 +1,23 @@
 {
-  "store_id": 1169,
-  "name": "ecommercenapratica",
   "domain": "ecommercenapratica.netlify.app",
-  "short_name": "ecommercenapratica",
-  "description": "ecommercenapratica",
-  "primary_color": "#222831",
-  "secondary_color": "#393e46",
-  "bg_color": "#ffffff",
+  "currency_symbol": "R$",
+  "primary_color": "#639aee",
   "theme": {
     "bootswatch": "_",
     "custom": "_"
   },
+  "bg_color": "#ffffff",
   "logo": "/img/uploads/logo.png",
-  "mini_logo": "",
-  "icon": "/img/icon.png",
-  "large_icon": "/img/large-icon.png",
-  "favicon": "/img/uploads/favicon.png",
+  "name": "ecommercenapratica",
+  "short_name": "ecommercenapratica",
   "lang": "pt_br",
   "currency": "BRL",
-  "currency_symbol": "R$",
-  "country_code": "BR"
+  "mini_logo": "",
+  "favicon": "/img/uploads/icone-2x-1-.png",
+  "country_code": "BR",
+  "secondary_color": "#000000",
+  "icon": "/img/icon.png",
+  "store_id": 1169,
+  "description": "ecommercenapratica",
+  "large_icon": "/img/large-icon.png"
 }
