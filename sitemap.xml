@@ -38,12 +38,6 @@
     </url>
   
     <url>
-      <loc>https://ecommercenapratica.netlify.app/pages/sobre-nos</loc>
-      <changefreq>monthly</changefreq>
-      <priority>0.7</priority>
-    </url>
-  
-    <url>
       <loc>https://ecommercenapratica.netlify.app/pages/termos</loc>
       <changefreq>monthly</changefreq>
       <priority>0.7</priority>
@@ -51,6 +45,12 @@
   
     <url>
       <loc>https://ecommercenapratica.netlify.app/pages/trocas</loc>
+      <changefreq>monthly</changefreq>
+      <priority>0.7</priority>
+    </url>
+  
+    <url>
+      <loc>https://ecommercenapratica.netlify.app/pages/sobre-nos</loc>
       <changefreq>monthly</changefreq>
       <priority>0.7</priority>
     </url>
