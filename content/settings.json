@@ -7,17 +7,17 @@
     "custom": "_"
   },
   "bg_color": "#ffffff",
-  "logo": "/img/uploads/logo.png",
+  "logo": "/img/uploads/logo-patacori.png",
   "name": "ecommercenapratica",
   "short_name": "ecommercenapratica",
   "lang": "pt_br",
   "currency": "BRL",
   "mini_logo": "",
-  "favicon": "/img/uploads/icone-2x-1-.png",
+  "favicon": "/img/uploads/icone-logo-patacori.png",
   "country_code": "BR",
   "secondary_color": "#000000",
-  "icon": "/img/icon.png",
+  "icon": "/img/uploads/icone-logo-patacori.png",
   "store_id": 1169,
   "description": "ecommercenapratica",
-  "large_icon": "/img/large-icon.png"
+  "large_icon": "/img/uploads/icone-logo-patacori.png"
 }
